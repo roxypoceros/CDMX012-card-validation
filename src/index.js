@@ -9,18 +9,19 @@ let mensajeFinal = document.getElementById('validityText')
 
 // validationButton.addEventListener("click", callNumber)
 
-validationButton.addEventListener("click", function () {
+validationButton.addEventListener("click", function(){
     let resultadoFinal = validator.isValid(CardNumber2.value)
-    if (resultadoFinal == true) {
-
+    if (resultadoFinal == true){
+        //console.log(resultadoFinal);
+    
         mensajeFinal.innerHTML = '<i class="fas fa-check-circle"></i> Tarjeta Valida';
-        mensajeFinal.classList.add("green")
-    } else {
-        mensajeFinal.innerHTML = '<i class="fas fa-times-circle"></i> Ingresa un número de tarjeta válido';
-        mensajeFinal.classList.add("red")
-    }
+            mensajeFinal.style.color = "Green"
+        } else {
+            mensajeFinal.innerHTML = '<i class="fas fa-times-circle"></i> Ingresa un número de tarjeta válido';
+            mensajeFinal.style.color = "Red"
+        }
 })
-
+ 
 validationButton.addEventListener("click", hideNumber)
 validationButton.addEventListener("click", hideInput)
 

@@ -8,6 +8,7 @@
 
 body{
     background-color: rgb(217, 225, 242);
+    overflow: hidden;
 }
 
 header {
@@ -16,11 +17,10 @@ header {
     font-size: 2rem;
     font-weight: bold;
     color: rgb(13, 49, 78);
-    text-shadow: 2px 2px rgb(155, 235, 109);
+    text-shadow: 2px 2px #9beb6d;
 }
 
 #principal {
-    background-color: white;
     width: 60%;
     margin: auto;
     margin-top: 40px;
@@ -30,13 +30,13 @@ header {
     border-radius: 25px;
 }
 
-.green{
-    color:rgb(4, 119, 4);
+/* .green{
+    color:green;
 }
 
 .red{
-    color:rgb(174, 0, 0);
-}
+    color:red;
+} */
 
 #maskify{
     padding: 10px;
@@ -60,6 +60,7 @@ ol {
     justify-content: space-evenly;
 }
 
+
 #myForm {
     border-radius: 15px;
     background-color: rgb(155, 235, 109);
@@ -74,8 +75,9 @@ label {
 }
 
 input {
+    outline: none;
     font-size: 95%;
-    border: none;
+    border: 5px;
     padding: 5px;
     }
 
@@ -100,6 +102,7 @@ input[placeholder]
     text-align: center;
 
 }
+
 
 #btnValidar {
     display: grid;
