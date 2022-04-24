@@ -15,9 +15,11 @@ validationButton.addEventListener("click", function(){
         //console.log(resultadoFinal);
     
         mensajeFinal.innerHTML = '<i class="fas fa-check-circle"></i> Tarjeta Valida';
+            //mensajeFinal.classList.add("green")
             mensajeFinal.style.color = "Green"
         } else {
             mensajeFinal.innerHTML = '<i class="fas fa-times-circle"></i> Ingresa un número de tarjeta válido';
+            //mensajeFinal.classList.add("red")
             mensajeFinal.style.color = "Red"
         }
 })
