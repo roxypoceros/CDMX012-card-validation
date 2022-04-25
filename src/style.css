@@ -17,7 +17,7 @@ header {
     font-size: 2rem;
     font-weight: bold;
     color: rgb(13, 49, 78);
-    text-shadow: 2px 2px #b1bfca;
+    text-shadow: 2px 2px #aed581;
 }
 
 #principal {
@@ -63,7 +63,7 @@ ol {
 
 #myForm {
     border-radius: 15px;
-    background-color: #b1bfca;
+    background-color: #aed581;
     text-align: center;
     font-size: 2.5rem;
     padding-bottom: 13px;
