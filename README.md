@@ -1,4 +1,4 @@
-# Validador de Tarjeta :tw-1f4b3: 
+# Validador de Tarjeta: 
 
 ## Índice
 
@@ -29,61 +29,61 @@ Entendí y apliqué los siguientes objetivos de aprendizaje en el proyecto:
 
 ### HTML
 
-- [:fa-check:] **Uso de HTML semántico**
+- [✓] **Uso de HTML semántico**
 
 ### CSS
 
-- [:fa-check:] **Uso de selectores de CSS**
+- [✓] **Uso de selectores de CSS**
 
-- [:fa-check:] **Modelo de caja (box model): borde, margen, padding**
+- [✓] **Modelo de caja (box model): borde, margen, padding**
 
 ### Web APIs
 
-- [:fa-check:] **Uso de selectores del DOM**
+- [✓] **Uso de selectores del DOM**
 
-- [:fa-check:] **Manejo de eventos del DOM (listeners, propagación, delegación)**
+- [✓] **Manejo de eventos del DOM (listeners, propagación, delegación)**
 
-- [:fa-check:] **Manipulación dinámica del DOM**
+- [✓] **Manipulación dinámica del DOM**
 
 ### JavaScript
 
-- [:fa-check:] **Tipos de datos primitivos**
+- [✓] **Tipos de datos primitivos**
 
-- [:fa-check:] **Strings (cadenas de caracteres)**
+- [✓] **Strings (cadenas de caracteres)**
 
-- [:fa-check:] **Variables (declaración, asignación, ámbito)**
+- [✓] **Variables (declaración, asignación, ámbito)**
 
-- [:fa-check:] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
+- [✓] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
-- [:fa-check:] **Uso de bucles/ciclos (while, for, for..of)**
+- [✓] **Uso de bucles/ciclos (while, for, for..of)**
 
-- [:fa-check:] **Funciones (params, args, return)**
+- [✓] **Funciones (params, args, return)**
 
-- [:fa-check:] **Pruebas unitarias (unit tests)**
+- [✓] **Pruebas unitarias (unit tests)**
 
-- [:fa-check:] **Módulos de ECMAScript (ES Modules)**
+- [✓] **Módulos de ECMAScript (ES Modules)**
 
-- [:fa-check:] **Uso de linter (ESLINT)**
+- [✓] **Uso de linter (ESLINT)**
 
-- [:fa-check:] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
+- [✓] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
 ### Control de Versiones (Git y GitHub)
 
-- [:fa-check:] **Git: Instalación y configuración**
+- [✓] **Git: Instalación y configuración**
 
-- [:fa-check:] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
+- [✓] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
 
-- [:fa-check:] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
+- [✓] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
-- [:fa-check:] **GitHub: Despliegue con GitHub Pages**
+- [✓] **GitHub: Despliegue con GitHub Pages**
 
 ### UX (User eXperience)
 
-- [:fa-check:] **Diseñar la aplicación pensando en y entendiendo al usuario**
+- [✓] **Diseñar la aplicación pensando en y entendiendo al usuario**
 
-- [:fa-check:] **Crear prototipos para obtener feedback e iterar**
+- [✓] **Crear prototipos para obtener feedback e iterar**
 
-- [:fa-check:] **Aplicar los principios de diseño visual**
+- [✓] **Aplicar los principios de diseño visual**
 
 ## 4. Consideraciones generales
 
